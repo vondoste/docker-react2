@@ -9,7 +9,17 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <p>All those who wonder are not lost.</p>
+        <p>
+          “All that is gold does not glitter,<br/>
+          Not all those who wander are lost;<br/>
+          The old that is strong does not wither,<br/>
+          Deep roots are not reached by the frost.<br/>
+          <br/>
+          From the ashes a fire shall be woken,<br/>
+          A light from the shadows shall spring;<br/>
+          Renewed shall be blade that was broken,<br/>
+          The crownless again shall be king.”<br/>
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
